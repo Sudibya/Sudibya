@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudibya
-- 👀 I’m interested in Rust, WASM, BLOCKCHAIN, FULLSTACK DEVELOPMENT.
-- 🌱 I’m currently learning how to use use WASM and blockchain implementation.
+- 👀 I’m interested in Rust, WASM, BLOCKCHAIN, FULLSTACK DEVELOPMENT, Nest.js and React.
+- 🌱 I’m currently learning how to use WASM and Blockchain.
 - 💞️ I’m looking to collaborate on blockchain and fullstack projects.
 - 📫 You can mail me sonujena085@gmail.com
 
