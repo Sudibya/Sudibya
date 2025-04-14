@@ -1,12 +1,12 @@
 <!-- Banner or Title -->
-<h1 align="center">Hi there, I'm Sudibya! 👋</h1>
+<h1 align="center">Hey there, I'm Sudibya! 👋</h1>
 
 <!-- Short Description / Bio -->
 <p align="center">
-  🚀 Passionate about Full-Stack Development, Blockchain, and Rust <br>
-  💻 Currently exploring <strong>WASM & Blockchain</strong> <br>
-  🌍 Open to collaborations in <strong>Web3, Full-Stack, and Nest.js</strong> projects <br>
-  📧 Reach me at: <a href="mailto:sonujena085@gmail.com">sonujena085@gmail.com</a>
+  🚀 <strong>Full-Stack Developer</strong> | <strong>Blockchain Enthusiast</strong> | <strong>Rustacean</strong> <br />
+  💻 Currently diving into <strong>WASM & Blockchain</strong> <br />
+  🤝 Open for collaborations in <strong>Web3, Full-Stack, Nest.js</strong> projects <br />
+  📧 Reach me at <a href="mailto:sonujena085@gmail.com">sonujena085@gmail.com</a>
 </p>
 
 <!-- Profile Views -->
@@ -16,8 +16,18 @@
 
 ---
 
-<!-- Badges: Quick Info / Highlights -->
+## 🚀 About Me
+
+- 🌱 I’m always learning and exploring new technologies, especially around **Rust** and **WebAssembly**.  
+- 🔗 I enjoy building modern **Full-Stack** apps with **React**, **Nest.js**, and cloud technologies.  
+- 🌍 Keen to contribute to **open-source** projects and collaborate on innovative ideas.  
+
+---
+
+## 🛠 Tech & Tools
+
 <p align="center">
+  <!-- Programming & Markup Languages -->
   <img src="https://img.shields.io/badge/Code-Rust-000?style=flat&logo=rust" alt="Rust" />
   <img src="https://img.shields.io/badge/Code-WASM-654FF0?style=flat&logo=webassembly" alt="WebAssembly" />
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript" />
@@ -31,34 +41,45 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<!-- GitHub Readme Stats -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudibya&show_icons=true&theme=radical" alt="Sudibya's GitHub Stats" />
-</p>
+<div align="center">
 
-<!-- Top Languages -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudibya&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+  <!-- GitHub Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sudibya&show_icons=true&theme=radical"
+    alt="Sudibya's GitHub Stats"
+    height="180em"
+  />
 
-<!-- GitHub Activity Graph -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudibya&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+  <!-- Top Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudibya&layout=compact&theme=radical"
+    alt="Sudibya's Top Languages"
+    height="180em"
+  />
+  
+  <!-- Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sudibya&theme=react-dark"
+    alt="Sudibya's GitHub Activity Graph"
+  />
 
-<!-- Optionally, you can add GitHub Streak Stats -->
-<!--
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudibya&theme=radical" alt="GitHub Streak" />
-</p>
--->
+  <!-- Optional: GitHub Streak Stats (uncomment if you want to show streaks) -->
+  <!--
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sudibya&theme=radical"
+    alt="Sudibya's GitHub Streaks"
+  />
+  -->
+
+</div>
 
 ---
 
-## 🤝 Connect with Me!
-<p>
+## 🤝 Connect with Me
+
+<p align="center">
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -70,6 +91,10 @@
   </a>
 </p>
 
-<p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
 </p>
+
+---
+
+*Thanks for stopping by! Feel free to connect, contribute, or just say hello.* 
