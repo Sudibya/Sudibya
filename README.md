@@ -1,43 +1,75 @@
-## 👋 Hi, I'm Sudibya!  
-🚀 Passionate about Full-Stack Development, Blockchain, and Rust  
-💻 Currently learning **WASM & Blockchain**  
-🌍 Open to collaborations in **Web3, Full-Stack, and Nest.js projects**  
-📧 Reach me at: [sonujena085@gmail.com](mailto:sonujena085@gmail.com)  
+<!-- Banner or Title -->
+<h1 align="center">Hi there, I'm Sudibya! 👋</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sudibya&color=blue)
+<!-- Short Description / Bio -->
+<p align="center">
+  🚀 Passionate about Full-Stack Development, Blockchain, and Rust <br>
+  💻 Currently exploring <strong>WASM & Blockchain</strong> <br>
+  🌍 Open to collaborations in <strong>Web3, Full-Stack, and Nest.js</strong> projects <br>
+  📧 Reach me at: <a href="mailto:sonujena085@gmail.com">sonujena085@gmail.com</a>
+</p>
 
-----
-
-### 🚀 Skills & Tech Stack:
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
-![WASM](https://img.shields.io/badge/-WASM-654FF0?&logo=webassembly)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript)
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?&logo=nestjs)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb)
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sudibya&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 🏆 Projects:
-- **🔗 [DMS (Document Management System)](https://github.com/Sudibya/DMS)** → A system for securely managing documents.
-- **🔗 [Blockchain Wallet](https://github.com/Sudibya/Blockchain-Wallet)** → A blockchain-based crypto wallet.
-- **🔗 [AI Music Generator](https://github.com/Sudibya/AI-Music)** → AI-powered music generation.
+<!-- Badges: Quick Info / Highlights -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Rust-000?style=flat&logo=rust" alt="Rust" />
+  <img src="https://img.shields.io/badge/Code-WASM-654FF0?style=flat&logo=webassembly" alt="WebAssembly" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Framework-Nest.js-E0234E?style=flat&logo=nestjs" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/Library-React-61DAFB?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Focus-Blockchain-121D33?style=flat&logo=blockchaindotcom" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Focus-FullStack-blueviolet?style=flat" alt="Full-Stack" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![Sudibya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudibya&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudibya&layout=compact&theme=radical)
+<!-- GitHub Readme Stats -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudibya&show_icons=true&theme=radical" alt="Sudibya's GitHub Stats" />
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudibya&theme=react-dark)
+<!-- Top Languages -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudibya&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudibya&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+<!-- Optionally, you can add GitHub Streak Stats -->
+<!--
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudibya&theme=radical" alt="GitHub Streak" />
+</p>
+-->
 
 ---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Website](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github)](https://yourwebsite.com)
+## 🤝 Connect with Me!
+<p>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github" alt="Portfolio" />
+  </a>
+</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+</p>
